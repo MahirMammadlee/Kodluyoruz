@@ -1,0 +1,17 @@
+*{
+    margin: 15px;
+    padding: 0;
+}
+
+body {
+    padding-top: 80px;
+    background: #343a40;
+    color: #e98208;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 6px;
+}
+
+.logo {
+    width: 250px;
+}
